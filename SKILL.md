@@ -1,3 +1,9 @@
+---
+name: intake-map
+description: >
+  > The 6 sections every input is silently mapped against. **The user never fills this out.** The system extracts from their input + research, labels each field, and surfaces only unresolved gaps in the Gap Check. > Labels: `[Extracted]` — found in the input · `[Inferred]` — derived from context · `[E Use this skill when working with intake map tasks or workflows.
+---
+
 # Intake Map (Reference)
 
 > The 6 sections every input is silently mapped against. **The user never fills this out.** The system extracts from their input + research, labels each field, and surfaces only unresolved gaps in the Gap Check.
